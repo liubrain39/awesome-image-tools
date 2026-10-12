@@ -81,6 +81,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 - [IDPhotoDIY](https://www.idphotodiy.com) — Free browser tool with a large library of country and visa sizes, and a printable sheet layout. Dated UI, but it works and asks for nothing.
 - [imgkilo — passport photo maker](https://imgkilo.com/passport-photo-maker) 🔒 — Remove or whiten the background, crop to a country or exam spec, and frame the head correctly, in the browser. Includes US [2×2](https://imgkilo.com/passport-photo-2x2) and many exam presets.
+- [Passport Photo Maker (passports.pics)](https://passportphoto.passports.pics) 🔒 — Crop a photo to one of eight country and visa presets (US, UK, Schengen, India, China, Canada, Australia) with a head-size guide and a background check, then download the file and a 4×6 print sheet at 300 dpi, in the browser. You place the crop yourself; there is no automatic face detection.
 - [Quick Image Kit — passport photo upload compressor](https://quickimagekit.com/compress-photo-for-passport-upload) 🔒 — Compress passport-style upload photos locally for forms with file-size limits.
 
 ## Batch processing
